@@ -6,7 +6,6 @@ Yapay Zeka ve Veri Mühendisliği öğrencisiyim. Teknolojinin, verinin ve tasar
 
 ### 🚀 Nelerle İlgileniyorum?
 * **Yapay Zeka & Görüntü İşleme:** OpenCV ve Python kullanarak gerçek zamanlı el takibi, jest tanıma ve video manipülasyonu üzerinde çalışıyorum.
-* **Akıllı E-Ticaret:** Yapay zekayı moda ve dijital tasarım süreçlerine entegre ederek, e-ticaret altyapılarını optimize edecek projeler geliştiriyorum (Yakında kendi online giyim mağazamın temellerini atıyorum! 👗✨).
 * **Topluluk & İçerik:** Sosyal medyada yapay zeka okuryazarlığını artırmak ve motivasyon sağlamak için **SinemXAI** çatısı altında eğitici seriler ve öğrenme yol haritaları hazırlıyorum.
 
 ---
