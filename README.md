@@ -1,16 +1,36 @@
-## Hi there 👋
+# Selam! Ben Sinem Kent 👋
 
-<!--
-**sinemkent/sinemkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yapay Zeka ve Veri Mühendisliği öğrencisiyim. Teknolojinin, verinin ve tasarımın kesişim kümelerinde üretmeyi; yapay zekayı pratik ve estetik çözümlere dönüştürmeyi seviyorum. Şu sıralar görüntü işleme, yapay zeka destekli projeler ve teknik içerik üretimi üzerine yoğunlaşıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Nelerle İlgileniyorum?
+* **Yapay Zeka & Görüntü İşleme:** OpenCV ve Python kullanarak gerçek zamanlı el takibi, jest tanıma ve video manipülasyonu üzerinde çalışıyorum.
+* **Akıllı E-Ticaret:** Yapay zekayı moda ve dijital tasarım süreçlerine entegre ederek, e-ticaret altyapılarını optimize edecek projeler geliştiriyorum (Yakında kendi online giyim mağazamın temellerini atıyorum! 👗✨).
+* **Topluluk & İçerik:** Sosyal medyada yapay zeka okuryazarlığını artırmak ve motivasyon sağlamak için **SinemXAI** çatısı altında eğitici seriler ve öğrenme yol haritaları hazırlıyorum.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+| Alan | Kullandığım Teknolojiler |
+| :--- | :--- |
+| **Diller** | Python, C, C++, SQL |
+| **Yapay Zeka & Kütüphaneler** | OpenCV, NumPy, Pandas |
+| **Siber Güvenlik & Diğer** | Temel Ağ Güvenliği, Git, GitHub |
+
+---
+
+### 📈 Üzerinde Çalıştığım Projeler
+* 👁️ **Computer Vision Sandbox:** Görüntü işleme yeteneklerimi test ettiğim, el/yüz takibi içeren mini Python projeleri.
+* 📚 **AI Learning Roadmaps:** Siber güvenlik (CyberRise Women) ve yapay zeka süreçlerinde aldığım notları topluluğa aktardığım kaynaklar.
+
+---
+
+### 📫 Bana Ulaşın!
+* 📸 **Instagram / TikTok:** [@SinemXAI](https://instagram.com/SinemXAI) (Yapay Zeka ve Mühendislik Yolculuğum)
+* 💼 **LinkedIn:** [linkedin.com/in/sinemkent](https://linkedin.com/in/sinemkent)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinemkent&show_icons=true&theme=radial" alt="Sinem's GitHub Stats" />
+</p>
