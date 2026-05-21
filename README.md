@@ -27,7 +27,7 @@ Yapay Zeka ve Veri Mühendisliği öğrencisiyim. Teknolojinin, verinin ve tasar
 ---
 
 ### 📫 Bana Ulaşın!
-* 📸 **Instagram / TikTok:** [@SinemXAI](https://instagram.com/SinemXAI) (Yapay Zeka ve Mühendislik Yolculuğum)
+* 📸 **Instagram:** [@SinemXAI](https://instagram.com/SinemXAI) (Yapay Zeka ve Mühendislik Yolculuğum)
 * 💼 **LinkedIn:** [linkedin.com/in/sinemkent](https://linkedin.com/in/sinemkent)
 
 <p align="center">
