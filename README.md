@@ -14,7 +14,7 @@ Yapay Zeka ve Veri Mühendisliği öğrencisiyim. Teknolojinin, verinin ve tasar
 
 | Alan | Kullandığım Teknolojiler |
 | :--- | :--- |
-| **Diller** | Python, C, C++, SQL |
+| **Diller** | Python, C, C++ |
 | **Yapay Zeka & Kütüphaneler** | OpenCV, NumPy, Pandas |
 | **Siber Güvenlik & Diğer** | Temel Ağ Güvenliği, Git, GitHub |
 
@@ -22,12 +22,11 @@ Yapay Zeka ve Veri Mühendisliği öğrencisiyim. Teknolojinin, verinin ve tasar
 
 ### 📈 Üzerinde Çalıştığım Projeler
 * 👁️ **Computer Vision Sandbox:** Görüntü işleme yeteneklerimi test ettiğim, el/yüz takibi içeren mini Python projeleri.
-* 📚 **AI Learning Roadmaps:** Siber güvenlik (CyberRise Women) ve yapay zeka süreçlerinde aldığım notları topluluğa aktardığım kaynaklar.
+* 📚 **AI Learning Roadmaps:** Siber güvenlik ve yapay zeka süreçlerinde aldığım notları topluluğa aktardığım kaynaklar.
 
 ---
 
 ### 📫 Bana Ulaşın!
-* 📸 **Instagram:** [@SinemXAI](https://instagram.com/SinemXAI) (Yapay Zeka ve Mühendislik Yolculuğum)
 * 💼 **LinkedIn:** [linkedin.com/in/sinemkent](https://linkedin.com/in/sinemkent)
 
 <p align="center">
